@@ -1,33 +1,68 @@
 <div align="center">
 
-<div id="header">
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtZWt1NWN0ejF2dDc4Z3R3a3FzN25qOWN5NHZwMTdud3VzNGdzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif" width="300"/>
+# 👨‍💻 Bienvenido a mi perfil
+
+### Soy **César Ramírez**
+
+Estudiante de Desarrollo de Aplicaciones Web | Apasionado por la tecnología y el diseño web
+
+---
+
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWhtZWt1NWN0ejF2dDc4Z3R3a3FzN25qOWN5NHZwMTdud3VzNGdzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/51AhgeKNAamtcmcpGx/giphy.gif" width="250" alt="GIF de programación"/>
 </div>
-  
-<div id="badges">
-<a href="https://www.linkedin.com/in/cesar-miguel-ramirez-luces-94946a306/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-<a href="mailto:cesramluc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="GMAIL BADGE"/>
-</a>
+
+---
+
+## ✨ Sobre mí
+
+Hola, soy César Ramírez, estudiante del ciclo superior en Desarrollo de Aplicaciones Web en el instituto Ana Luisa Benítez, en Las Palmas de Gran Canaria. Me apasiona crear soluciones digitales innovadoras y mejorar continuamente mis habilidades como desarrollador.
+
+### 🚀 Áreas de interés
+
+- Desarrollo web moderno (HTML, CSS, JavaScript).
+- Frameworks de frontend como React.
+- Bases de datos relacionales y no relacionales.
+- Colaboración en proyectos desafiantes.
+
+---
+
+## 📫 Contacto
+
+Si deseas conectarte o colaborar conmigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-miguel-ramirez-luces-94946a306/)
+[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesramluc@gmail.com)
+
+---
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elchimeneas&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="70%"/>
 </div>
 
+---
 
-### Hi there 👋🎉
+## 🛠️ Tecnologías y Herramientas
 
-My name is **César Ramírez** and welcome to my profile.
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</div>
 
-Hello! I'm César Ramírez, currently enrolled in a Higher Vocational Training in Web Application Development. I’m passionate about programming and web design, constantly seeking opportunities to demonstrate my skills. I believe in learning from every experience, evolving as an individual, and always supporting others. Feel free to explore my projects and reach out!
+---
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4bHZ1OGZzbzE5aGN3YTBsdWM0cWlleG9nOTViNGhpanpnM2ozaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="500" />
-  
+## 🌟 Inspiración
 
+> "El código es el lenguaje en el que transformamos ideas en realidades."
 
-### :bar_chart: GitHub stats
+<div align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHE4bHZ1OGZzbzE5aGN3YTBsdWM0cWlleG9nOTViNGhpanpnM2ozaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="300" alt="Inspiración"/>
+</div>
 
-[i got this from a github repo: anuraghazra/github-readme-stats it was nice actually big shoutout to him]: #
-
-![elchimeneas's Stats](https://github-readme-stats.vercel.app/api?username=elchimeneas&theme=slateorange&show_icons=true&hide_border=true&count_private=true)
-
- 
 </div>
