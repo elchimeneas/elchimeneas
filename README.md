@@ -20,9 +20,8 @@ Hola, soy César Ramírez, estudiante del ciclo superior en Desarrollo de Aplica
 
 ### 🚀 Áreas de interés
 
-- Desarrollo web moderno (HTML, CSS, JavaScript).
-- Frameworks de frontend como React.
-- Bases de datos relacionales y no relacionales.
+- Desarrollo web moderno (HTML, CSS, JavaScript, React).
+- Bases de datos relacionales.
 - Colaboración en proyectos desafiantes.
 
 ---
@@ -50,8 +49,7 @@ Si deseas conectarte o colaborar conmigo:
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  <img src="https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
   <img src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </div>
 
