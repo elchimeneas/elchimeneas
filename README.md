@@ -16,11 +16,11 @@ Estudiante de Desarrollo de Aplicaciones Web | Apasionado por la tecnología y e
 
 ## ✨ Sobre mí
 
-Hola, soy César Ramírez, estudiante del ciclo superior en Desarrollo de Aplicaciones Web en el instituto Ana Luisa Benítez, en Las Palmas de Gran Canaria. Me apasiona crear soluciones digitales innovadoras y mejorar continuamente mis habilidades como desarrollador.
+Hola, soy César Ramírez, estudiante del ciclo superior en Desarrollo de Aplicaciones Web. Me apasiona crear soluciones digitales innovadoras y mejorar continuamente mis habilidades como desarrollador.
 
 ### 🚀 Áreas de interés
 
-- Aprender nuevas tecnologías en desarrollo FrontEnd (React, Vue.js, Svelte, y más).
+- Aprender nuevas tecnologías en desarrollo FrontEnd (React, Vue.js, y más).
 - Desarrollo web moderno (HTML, CSS, JavaScript, TailwindCSS, Bootstrap).
 - Bases de datos relacionales.
 - Colaboración en proyectos desafiantes.
